@@ -15,6 +15,7 @@ I found great teachers who taught me a lot of concepts and made me love this ind
   - <a href="#landingpage">Landing Page </a>
   - <a href="#portfolio1">Portfolio 1 </a>
   - <a href="#portfolio2">Portfolio 2 </a>
+  - <a href="#card">Card </a>
 
 - <a href="#js">JavaScript</a>
 
@@ -25,6 +26,10 @@ I found great teachers who taught me a lot of concepts and made me love this ind
   - <a href="#extension">Extension</a>
   - <a href="#rpg">RPG Game</a>
   - <a href="#twitter">Twitter Clone</a>
+  - <a href="#wargame">War Game</a>
+  - <a href="#dashboard">Dashboard</a>
+  - <a href="#password-generator">Password Generator</a>
+  - <a href="#color-scheme">Color Scheme</a>
 
 - <a href="#react">React</a>
 
@@ -65,6 +70,12 @@ I found great teachers who taught me a lot of concepts and made me love this ind
 ### <p id="portfolio2"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Portfolio-Design-UX-Scrimba-CSS) Portfolio 2</p>
 
 [<img src="./img/Portfolio.png" height="300px">](https://github.com/Novecento201/Portfolio-Design-UX-Scrimba-CSS)
+
+---
+
+### <p id="card"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/card-Scrimba-CSS) Card </p>
+
+[<img src="./img/card.PNG" height="300px">](https://github.com/Novecento201/card-Scrimba-CSS)
 
 ---
 
@@ -109,6 +120,30 @@ I found great teachers who taught me a lot of concepts and made me love this ind
 ### <p id="twitter"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Twitter-clone-Scrimba-JS) Twitter clone </p>
 
 [<img src="./img/twitterclone.png" height="300px">](https://github.com/Novecento201/Twitter-clone-Scrimba-JS)
+
+---
+
+### <p id="wargame"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/War-Game-Scrimba-JS) War Game </p>
+
+[<img src="./img/war.PNG" height="300px">](https://github.com/Novecento201/War-Game-Scrimba-JS)
+
+---
+
+### <p id="dashboard"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Dashboard-Scrimba-JS) Dashboard </p>
+
+[<img src="./img/dashboard.PNG" height="300px">](https://github.com/Novecento201/Dashboard-Scrimba-JS)
+
+---
+
+### <p id="password-generator"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/password-generator-Scrimba-JS) Password generator </p>
+
+[<img src="./img/password-generator.png" height="300px">](https://github.com/Novecento201/password-generator-Scrimba-JS)
+
+---
+
+### <p id="color-scheme"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/color-scheme-Scrimba-JS) Color Scheme </p>
+
+[<img src="./img/Color-scheme.png" height="300px">](https://github.com/Novecento201/color-scheme-Scrimba-JS)
 
 ---
 
