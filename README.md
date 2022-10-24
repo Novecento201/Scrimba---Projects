@@ -11,11 +11,13 @@ I found great teachers who taught me a lot of concepts and made me love this ind
 
 - <a href="#htmlcss">HTML & CSS</a>
 
-  - <a href="#pagecss">Page CSS </a>
   - <a href="#landingpage">Landing Page </a>
   - <a href="#portfolio1">Portfolio 1 </a>
   - <a href="#portfolio2">Portfolio 2 </a>
-  - <a href="#card">Card </a>
+  - <a href="#page1">Page flex </a>
+  - <a href="#page2">Page grid </a>
+  - <a href="#card1">Card flex </a>
+  - <a href="#card2">Card grid </a>
 
 - <a href="#js">JavaScript</a>
 
@@ -47,39 +49,47 @@ I found great teachers who taught me a lot of concepts and made me love this ind
 
 ---
 
-## <p id="htmlcss">HTML & CSS</p>
-
-### <p id="pagecss"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Page-Scrimba-CSS) Page CSS</p>
-
-[<img src="./img/pageCss.png" height="300px">](https://github.com/Novecento201/Page-Scrimba-CSS)
-
----
+# <p id="htmlcss">HTML & CSS</p>
 
 ### <p id="landingpage"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Landing-page-Scrimba-CSS) Landing Page</p>
 
-[<img src="./img/landingPage.PNG" height="300px">](https://github.com/Novecento201/Landing-page-Scrimba-CSS)
+[<img src="./img/landingPage.png" height="300px">](https://github.com/Novecento201/Landing-page-Scrimba-CSS)
 
 ---
 
 ### <p id="portfolio1"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Portfolio-challenges-Scrimba-CSS) Portfolio 1</p>
 
-[<img src="./img/CSS.png" height="300px">](https://github.com/Novecento201/Portfolio-challenges-Scrimba-CSS)
+[<img src="./img/portfolio1.png" height="300px">](https://github.com/Novecento201/Portfolio-challenges-Scrimba-CSS)
 
 ---
 
 ### <p id="portfolio2"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Portfolio-Design-UX-Scrimba-CSS) Portfolio 2</p>
 
-[<img src="./img/Portfolio.png" height="300px">](https://github.com/Novecento201/Portfolio-Design-UX-Scrimba-CSS)
+[<img src="./img/portfolio2.png" height="300px">](https://github.com/Novecento201/Portfolio-Design-UX-Scrimba-CSS)
 
 ---
 
-### <p id="card"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/card-Scrimba-CSS) Card </p>
+### <p id="page1"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Page-Scrimba-CSS) Page flex</p>
 
-[<img src="./img/card.PNG" height="300px">](https://github.com/Novecento201/card-Scrimba-CSS)
+## [<img src="./img/pageCss.png" height="300px">](https://github.com/Novecento201/Page-Scrimba-CSS)
+
+### <p id="page2"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Page-grid-Scrimba-CSS) Page grid</p>
+
+[<img src="./img/pageCss.png" height="300px">](https://github.com/Novecento201/Page-grid-Scrimba-CSS)
+
+### <p id="card1"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/card-Scrimba-CSS) Card flex</p>
+
+[<img src="./img/card.png" height="300px">](https://github.com/Novecento201/card-Scrimba-CSS)
 
 ---
 
-## <p id="js">JavaScript</p>
+### <p id="card2"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/card-grid-Scrimba-CSS) Card grid</p>
+
+[<img src="./img/card.png" height="300px">](https://github.com/Novecento201/card-grid-Scrimba-CSS)
+
+---
+
+# <p id="js">JavaScript</p>
 
 ### <p id="blackjack"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Blackjack-Scrimba-JS) Blackjack </p>
 
@@ -125,13 +135,13 @@ I found great teachers who taught me a lot of concepts and made me love this ind
 
 ### <p id="wargame"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/War-Game-Scrimba-JS) War Game </p>
 
-[<img src="./img/war.PNG" height="300px">](https://github.com/Novecento201/War-Game-Scrimba-JS)
+[<img src="./img/war.png" height="300px">](https://github.com/Novecento201/War-Game-Scrimba-JS)
 
 ---
 
 ### <p id="dashboard"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Dashboard-Scrimba-JS) Dashboard </p>
 
-[<img src="./img/dashboard.PNG" height="300px">](https://github.com/Novecento201/Dashboard-Scrimba-JS)
+[<img src="./img/dashboard.png" height="300px">](https://github.com/Novecento201/Dashboard-Scrimba-JS)
 
 ---
 
@@ -147,7 +157,7 @@ I found great teachers who taught me a lot of concepts and made me love this ind
 
 ---
 
-## <p id="react">React</p>
+# <p id="react">React</p>
 
 ### <p id="capstone"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Capstone-Scrimba-React) Capstone project </p>
 
