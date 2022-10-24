@@ -53,7 +53,7 @@ I found great teachers who taught me a lot of concepts and made me love this ind
 
 ### <p id="landingpage"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Landing-page-Scrimba-CSS) Landing Page</p>
 
-[<img src="./img/landingPage.png" height="300px">](https://github.com/Novecento201/Landing-page-Scrimba-CSS)
+[<img src="./img/landingPage.PNG" height="300px">](https://github.com/Novecento201/Landing-page-Scrimba-CSS)
 
 ---
 
@@ -79,13 +79,13 @@ I found great teachers who taught me a lot of concepts and made me love this ind
 
 ### <p id="card1"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/card-Scrimba-CSS) Card flex</p>
 
-[<img src="./img/card.png" height="300px">](https://github.com/Novecento201/card-Scrimba-CSS)
+[<img src="./img/card.PNG" height="300px">](https://github.com/Novecento201/card-Scrimba-CSS)
 
 ---
 
 ### <p id="card2"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/card-grid-Scrimba-CSS) Card grid</p>
 
-[<img src="./img/card.png" height="300px">](https://github.com/Novecento201/card-grid-Scrimba-CSS)
+[<img src="./img/card.PNG" height="300px">](https://github.com/Novecento201/card-grid-Scrimba-CSS)
 
 ---
 
@@ -135,13 +135,13 @@ I found great teachers who taught me a lot of concepts and made me love this ind
 
 ### <p id="wargame"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/War-Game-Scrimba-JS) War Game </p>
 
-[<img src="./img/war.png" height="300px">](https://github.com/Novecento201/War-Game-Scrimba-JS)
+[<img src="./img/war.PNG" height="300px">](https://github.com/Novecento201/War-Game-Scrimba-JS)
 
 ---
 
 ### <p id="dashboard"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Dashboard-Scrimba-JS) Dashboard </p>
 
-[<img src="./img/dashboard.png" height="300px">](https://github.com/Novecento201/Dashboard-Scrimba-JS)
+[<img src="./img/dashboard.PNG" height="300px">](https://github.com/Novecento201/Dashboard-Scrimba-JS)
 
 ---
 
