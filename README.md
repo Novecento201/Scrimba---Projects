@@ -3,7 +3,7 @@
 [Scrimba](https://scrimba.com/allcourses) for me was the best course I have taken. <br>
 I found great teachers who taught me a lot of concepts and made me love this industry even more.<br>
 
-[Certificate]()
+[Certificate](https://drive.google.com/file/d/1EucGyVnPutYE-aGud1hIqFcRLi_BZ-uS/view?usp=sharing)
 
 ---
 
