@@ -35,6 +35,7 @@ I found great teachers who taught me a lot of concepts and made me love this ind
 
 - <a href="#react">React</a>
 
+  - <a href="#quiz">Quiz</a>
   - <a href="#capstone">Capstone Project</a>
   - <a href="#router">React router</a>
   - <a href="#speedgame">Speed typing game</a>
@@ -158,6 +159,12 @@ I found great teachers who taught me a lot of concepts and made me love this ind
 ---
 
 # <p id="react">React</p>
+
+### <p id="quiz"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Quiz-Scrimba-React) Quiz </p>
+
+[<img src="./img/quiz.gif" height="300px">](https://github.com/Novecento201/Quiz-Scrimba-React)
+
+---
 
 ### <p id="capstone"> [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Capstone-Scrimba-React) Capstone project </p>
 
